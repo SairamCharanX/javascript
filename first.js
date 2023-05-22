@@ -1,2 +1,2 @@
-var name = prompt("Welcome. Please enter username: ");
-console.log("Hello " + name);
+var userName = prompt("Welcome. Please enter username: ");
+console.log("Hello " + userName);
